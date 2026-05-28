@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartrecrypt",
+        "uuid": 21982563,
+        "checksum": "s3o01g"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
